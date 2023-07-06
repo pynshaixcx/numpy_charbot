@@ -11,19 +11,17 @@ Installation
 
 To install the chatbot, you will need to have Python and the Following libraries installed.
 
-ntlk
-##Usage
-pip install nltk  #importing natural language toolkit
-
-newspaper3k
-##Usage
-pip install newspaper3k  #used to extract articles
+    pip install ntlk 
+#importing natural language toolkit
+    
+    pip install newspaper3k 
+#used to extract articles
 
 Once you have Python and Wikipedia installed, you can run the chatbot by running the following command:
 
-##Running
-
-python3 main.py
+Running
+    
+    python3 main.py
 
 Examples
 
